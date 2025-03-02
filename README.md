@@ -279,6 +279,8 @@ p.note { display: none; }
 <a href="20250301_084.JPG" target="_blank"><img src="20250301_084.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250301_085.JPG" target="_blank"><img src="20250301_085.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250301_086.JPG" target="_blank"><img src="20250301_086.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">子供達のタコはかなり高く上がってました</span></h2>
 <a href="20250301_087.JPG" target="_blank"><img src="20250301_087.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250301_088.JPG" target="_blank"><img src="20250301_088.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250301_089.JPG" target="_blank"><img src="20250301_089.JPG" alt="サンプル画像" width="900" /></a>
